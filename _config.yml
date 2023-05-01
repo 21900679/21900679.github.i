@@ -36,13 +36,14 @@ plugins:
   - jekyll-feed
 
 plainwhite:
-  portfolio_image:  "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
+  portfolio_image:  "assets/jimin.png" # the path from the base directory of the site to the image to display (no / at the start)
+  name: Jimin Jung
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
 
   social_links:
     twitter: samarsault
-    github: samarsault
+    github: 21900679
     linkedIn: in/samarsault # format: locale/username
 
 # Exclude from processing.
